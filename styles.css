@@ -109,7 +109,6 @@ select {
 .nav {
   display: flex;
   justify-content: space-around;
-  border: 2px solid mistyrose;
   align-items: center;
 }
 
